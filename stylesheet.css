@@ -1,0 +1,50 @@
+body {
+	background-image: url("mountains1.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+footer {
+	color: white;
+	
+}
+footer a {
+	color: yellow;
+}
+div.main {
+background-color: white;
+color: black;
+padding: 20px;
+height: 80%;
+}
+iframe {
+float: right;
+position: relative;
+bottom: 320px;
+right: 90;
+}
+
+
+ul.navbar {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #332288;
+}
+
+li{
+	float: left;
+}
+
+li a{
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+li a:hover {
+	background-color: #33DDCC;
+}
